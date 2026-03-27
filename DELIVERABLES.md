@@ -49,4 +49,3 @@ cd frontend && python3 -m http.server 3000
 Then visit: [http://localhost:3000/index.html](http://localhost:3000/index.html)
 
 ---
-*Verified by Antigravity AI*
